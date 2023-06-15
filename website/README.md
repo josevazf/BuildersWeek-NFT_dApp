@@ -12,6 +12,6 @@ Once those have finished installing, run the following to start:
 ```Shell
 npm start
 ```
-Doing so should open http://localhost:3000/ in your browser, where you'll see the frontend for our project.
+Doing so should open http://localhost:3000/ in your browser, where you'll see the frontend for the project.
 ###
 <img width="500" alt="image" src="https://github.com/josevazf/BuildersWeek-NFT_dApp/assets/19204122/11664eda-ac88-47fc-95ff-ddc55db575e7">
