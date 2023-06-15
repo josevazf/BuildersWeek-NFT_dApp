@@ -1,4 +1,4 @@
-# Builders Week 2023 NFT dApp - Smart Contract
+# Smart Contract
 
 If you would like to reuse this Contract first you need to install [npm and Node.js](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm). Install and initiate a [Metamask wallet](https://wiki.polygon.technology/docs/develop/metamask/hello/) and get an API key from an RPC provider like [Alchemy](https://docs.alchemy.com/docs/alchemy-quickstart-guide) or [Infura](https://www.infura.io/).
 Then on the cloned folder:
